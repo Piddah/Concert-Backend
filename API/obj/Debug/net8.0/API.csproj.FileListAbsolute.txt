@@ -1,0 +1,60 @@
+C:\Users\Hp\Desktop\C#\New Project\ConcertApp\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\New Project\ConcertApp\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\New Project\ConcertApp\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\New Project\ConcertApp\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\New Project\ConcertApp\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\API\obj\Debug\net8.0\API.dll
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\API\obj\Debug\net8.0\refint\API.dll
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\API\obj\Debug\net8.0\API.pdb
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\ConcertApp.deps.json
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\ConcertApp.runtimeconfig.json
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\ConcertApp.exe
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\appsettings.json
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\API.staticwebassets.endpoints.json
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\API.exe
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\API.deps.json
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\API.runtimeconfig.json
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\API.dll
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\API.pdb
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\ConcertApp.dll
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\bin\Debug\net8.0\ConcertApp.pdb
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\API.csproj.Up2Date
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\API.dll
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\refint\API.dll
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\API.pdb
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#\Concert-Webform\API\obj\Debug\net8.0\ref\API.dll

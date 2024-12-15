@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>TicketMaster</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <nav>
+        <div class="company">
+            <h1>TicketMaster</h1>
+        </div>
+        <div class="menu">
+            <ul>
+                <li>Home</li>
+                <li>About</li>
+                <li>Contact</li>
+            </ul>
+        </div>
+    </nav>
+
+    <div id="form-container">
+        <h1>Create Account</h1>
+        <form action="http://localhost:5221/createaccount" method="post">
+            <div>
+                <label for="firstname">First name:</label>
+                <input type="text" name="firstname" id="firstname">
+                <label for="lastname">Last name:</label>
+                <input type="text" name="lastname" id="lastname">
+                <label for="password">Password:</label>
+                <input type="text" name="password" id="password">
+                <input id="submit" type="submit" value="createaccount">
+            </div>
+        </form>
+
+        <h1>Sign in</h1>
+        <form action="http://localhost:5221/login" method="post">
+            <div>
+                <label for="firstname">First name:</label>
+                <input type="text" name="firstname" id="firstname">
+                <label for="lastname">Last name:</label>
+                <input type="text" name="lastname" id="lastname">
+                <label for="password">Password:</label>
+                <input type="text" name="password" id="password">
+                <input id="submit" type="submit" value="login">
+            </div>
+        </form>
+    </div>
+    
+</body>
+</html>

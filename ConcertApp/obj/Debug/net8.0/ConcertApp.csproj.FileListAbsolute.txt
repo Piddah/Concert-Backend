@@ -1,0 +1,18 @@
+C:\Users\Hp\Desktop\C#\New Project\ConcertApp\ConcertApp\obj\Debug\net8.0\ConcertApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\New Project\ConcertApp\ConcertApp\obj\Debug\net8.0\ConcertApp.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\New Project\ConcertApp\ConcertApp\obj\Debug\net8.0\ConcertApp.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\New Project\ConcertApp\ConcertApp\obj\Debug\net8.0\ConcertApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\obj\Debug\net8.0\ConcertApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\obj\Debug\net8.0\ConcertApp.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\obj\Debug\net8.0\ConcertApp.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\obj\Debug\net8.0\ConcertApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\bin\Debug\net8.0\ConcertApp.exe
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\bin\Debug\net8.0\ConcertApp.deps.json
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\bin\Debug\net8.0\ConcertApp.runtimeconfig.json
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\bin\Debug\net8.0\ConcertApp.dll
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\bin\Debug\net8.0\ConcertApp.pdb
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\obj\Debug\net8.0\ConcertApp.dll
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\obj\Debug\net8.0\refint\ConcertApp.dll
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\obj\Debug\net8.0\ConcertApp.pdb
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\obj\Debug\net8.0\ConcertApp.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#\Concert-Webform\ConcertApp\obj\Debug\net8.0\ref\ConcertApp.dll
